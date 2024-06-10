@@ -85,3 +85,12 @@ This project is licensed under the MIT License.
 
 - [djitellopy](https://github.com/damiafuentes/DJITelloPy): A Python library to interact with the DJI Tello drone.
 - [OpenCV](https://opencv.org/): Open Source Computer Vision Library.
+- 
+
+https://github.com/Yash1th1/Follow_My_Face_Drone/assets/76571496/fff206ce-e03e-4b39-9cd3-8538ef57054a
+
+
+
+https://github.com/Yash1th1/Follow_My_Face_Drone/assets/76571496/f831be14-aad0-406f-8339-dd31bb9337d0
+
+
