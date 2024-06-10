@@ -1,3 +1,7 @@
+
+
+https://github.com/Yash1th1/Follow_My_Face_Drone/assets/76571496/d67bd01d-3513-4781-9c43-0de02c0d3f01
+
 # Follow_My_Face_Drone
 This repository contains code for a face-tracking drone project using a DJI Tello drone. The project involves using OpenCV for face detection and tracking, and controlling the DJI Tello drone to follow a detected face. The project also includes video recording capabilities and manual control with position tracking.
 
